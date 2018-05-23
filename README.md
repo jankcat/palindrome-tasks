@@ -17,3 +17,8 @@ Develop a palindrome validator using your language of choice that will take in a
 
 ## Task 2
 
+You are a recently hired tester. The company has software it wants to ship at the end of the day that tests palindromes—words that read the same backward as forward. (So "bob" is a palindrome, but "robert" is not.) You type in some text, click Submit, and the software tells you whether the text is a palindrome—pretty simple. The lead developer is out sick, but there is a junior developer who can fix bugs that you find. We need time to fix and retest, of course. The product owner is nontechnical, but he can answer questions.
+
+We ask you to review the site below and record your strategy, questions, etc.
+
+http://xndev.com/palindrome
